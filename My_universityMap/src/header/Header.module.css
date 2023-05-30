@@ -1,0 +1,27 @@
+header {
+    display: flex;
+    justify-content: center;
+    background-color: #000f14;
+    padding: 45px 100px 0px 100px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: flex-start;
+}
+
+.paddingTop {
+    padding-top: 15px;
+}
+
+.wrapper li button {
+    width: 148px;
+    height: 44px;
+    border-radius: 25px;
+    color: #131111;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}

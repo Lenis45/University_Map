@@ -1,0 +1,14 @@
+.block {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 112px;
+    background-color: #000;
+
+    position: relative;
+    /* z-index: 1; */
+}
+
+.list {
+    text-decoration: none;
+    padding-top: 63px;
+}
