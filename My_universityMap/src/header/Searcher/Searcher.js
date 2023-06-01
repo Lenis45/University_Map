@@ -1,8 +1,8 @@
 import { useDispatch, useSelector } from "react-redux"
-import { changeFilterList, changeActive } from "../../app/Slices/FilterSlice"
+import { changeFilterList, changeActive } from "../../redux/SelectFilter"
 
 import s from "./Searcher.module.css"
-import search from "../svg/Search.svg";
+import search from "../../map_svg/Search.svg";
 
 export const Searcher = () => {
 

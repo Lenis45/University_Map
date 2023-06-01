@@ -1,6 +1,6 @@
 import { useSelector, useDispatch } from 'react-redux';
 
-import { selectBilding, blureTrue, blureFalse, blureAll } from "../../app/Slices/SelectBildingsSlice"
+import { selectBilding, blureTrue, blureFalse, blureAll } from "../../../redux/SelectBildings"
 import EnclosuresListItem from "../EnclosuresListItem/EnclosuresListItem";
 import s from "./EnclosureList.module.css"
 
