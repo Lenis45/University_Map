@@ -1,0 +1,14 @@
+.listWrapper {
+    overflow: hidden;
+    margin-top: 67px;
+    border: 2px solid white;
+    /* margin: 30px 30px 30px 30px; */
+    border-radius: 25px;
+    height: 425px;
+    width: 375px;
+}
+
+.listInner {
+    height: 100%;
+    width: 100%;
+}

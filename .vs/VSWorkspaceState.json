@@ -1,12 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\University_Map",
-    "\\University_Map\\client",
-    "\\University_Map\\client\\src",
-    "\\University_Map\\client\\src\\components\\Footer",
-    "\\University_Map\\client\\src\\components\\Navbar"
+    "\\My_universityMap",
+    "\\My_universityMap\\public",
+    "\\My_universityMap\\src",
+    "\\My_universityMap\\src\\components"
   ],
-  "SelectedNode": "\\University_Map\\client\\public",
+  "SelectedNode": "\\My_universityMap\\src\\header",
   "PreviewInSolutionExplorer": false
 }

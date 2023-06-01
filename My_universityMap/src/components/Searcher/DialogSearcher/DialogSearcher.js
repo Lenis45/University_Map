@@ -1,6 +1,6 @@
 import { useDispatch, useSelector } from "react-redux"
-import { changeActive, changeFilterList } from "../../app/Slices/FilterSlice"
-import { blureTrue, blureFalse, blureAll, reboot } from "../../redux/SelectBildings"
+import { changeActive, changeFilterList } from "../../../redux/SelectFilter"
+import { blureTrue, blureFalse, blureAll, reboot } from "../../../redux/SelectBildings"
 
 
 import DialogSearcherItem from "../DialogSearcherItem/DialogSearcherItem"

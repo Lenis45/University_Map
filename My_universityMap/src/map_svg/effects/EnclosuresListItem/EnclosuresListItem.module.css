@@ -1,0 +1,49 @@
+.circle {
+    border-radius: 50%;
+    background-color: #878787;
+    height: 34px;
+    width: 34px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+.string {
+    display: flex;
+    padding-bottom: 27px;
+    align-items: center;
+}
+
+.highlight {
+    cursor: pointer;
+    user-select: none;
+}
+
+/* .highlight :hover {
+    background-color: #878787;
+} */
+
+.item {
+    transition: 0.5s all;
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+}
+
+.padding {
+    padding-top: 13px;
+}
+
+.margin {
+    margin-top: 13px;
+}
+
+.сlip {
+    margin-right: 15px;
+    height: 40px;
+    width: 8px;
+    border-radius: 5px;
+}
+
+.displayNone {
+    display: none;
+}
