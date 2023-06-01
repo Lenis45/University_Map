@@ -1,6 +1,6 @@
 import { useDispatch } from "react-redux"
 import { reboot } from "../redux/SelectBildings"
-import { Searcher } from "../Searcher/Searcher";
+import { Searcher } from "./Searcher/Searcher";
 import icon from "./mtuciLogo.png"
 import s from "./Header.module.css"
 

@@ -1,0 +1,32 @@
+.search {
+    display: flex;
+    width: 477px;
+    height: 44px;
+    background-color: #EDEDED;
+    border-radius: 25px;
+    align-items: center;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+.search img {
+    width: 24px;
+    height: 24px;
+    padding-left: 17px;
+    padding-right: 10px;
+}
+
+.search p {
+    color: #A4A4A4;
+}
+
+.ofline {
+    width: 477px;
+}
+
+.dialog {
+    display: flex;
+    justify-content: center;
+    width: 477px;
+    flex-direction: column;
+}
